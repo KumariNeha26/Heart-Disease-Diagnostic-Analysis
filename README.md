@@ -1,4 +1,19 @@
-# Heart-Disease-Diagnostic-Analysis
-The goal is to perform an ETL (Extract, Transform, Load) process on a heart disease diagnostic dataset, followed by an Exploratory Data Analysis (EDA). The dataset includes various attributes such as heart disease prevalence by gender, age, and other medical factors.
+Heart Disease Diagnostic Analysis
 
-Project Steps: ETL: Load, clean, and preprocess heart disease data for analysis. EDA: Analyze heart disease rates by age, gender, and other factors; find key correlations. Dashboard: Create visualizations (charts, graphs) to show metrics like disease rates by demographic factors. Insights: Identify key risk factors and summarize findings for future health preparation.
+Project Overview
+This project focuses on processing and analyzing heart disease diagnostic data using ETL and EDA techniques. The dataset includes patient attributes such as age, gender, and medical factors to assess heart disease prevalence.
+
+Key Steps
+ETL Process: Load, clean, and preprocess data for analysis.
+EDA: Identify patterns and correlations in heart disease occurrence.
+Visualization: Develop charts and graphs to highlight key insights.
+Findings: Identify risk factors and summarize results for better health analysis.
+
+This analysis supports data-driven decision-making in healthcare by uncovering critical risk patterns.
+
+
+
+
+
+
+
